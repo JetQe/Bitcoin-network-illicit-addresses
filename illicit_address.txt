@@ -1,0 +1,8 @@
+Ponzi  160
+Ransomware  8979
+Blackmail  2884
+Darknet market  313
+Hack 406
+Unknown  11698
+Others  340
+Total  21524
